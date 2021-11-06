@@ -1,0 +1,4 @@
+main:	main.c
+	gcc -g -o main main.c
+clean:
+	rm  result.txt
