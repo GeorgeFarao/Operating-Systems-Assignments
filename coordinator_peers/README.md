@@ -1,4 +1,3 @@
-ΦΑΡΑΩ ΓΕΩΡΓΙΟΣ	1115201700177
 
 Για να τρέξει το πρόγραμμα δίνω αρχικά γράφω make coordinator,make peers και αν έχει δημιουργηθεί το sem1.key make removekey και έπειτα ./coordinator ./peers x y z w με x= τον αριθμό των entries, y= τον αριθμό των peers, z=τον αριθμό των loops και w= αριθμo readers.
 
